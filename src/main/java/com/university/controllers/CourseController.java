@@ -7,8 +7,6 @@ import javax.ws.rs.*;
 import javax.ws.rs.core.MediaType;
 import java.util.List;
 
-import static com.university.servicve.CourseService.*;
-
 
 @Path("/course")
 public class CourseController {

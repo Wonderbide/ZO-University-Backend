@@ -1,0 +1,5 @@
+com\university\dao\CourseDAO.class
+com\university\service\CourseService.class
+com\university\entities\Course.class
+com\university\controllers\CourseController.class
+com\university\policy\CORS.class
