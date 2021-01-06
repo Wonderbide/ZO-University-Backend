@@ -8,6 +8,7 @@
         <outputRelativeToContentRoot value="true" />
         <module name="university" />
         <module name="University ZU" />
+        <module name="ZO-University-Backend" />
       </profile>
     </annotationProcessing>
   </component>

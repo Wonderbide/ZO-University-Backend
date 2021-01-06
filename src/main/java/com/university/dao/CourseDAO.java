@@ -10,7 +10,7 @@ public class CourseDAO {
     public static List<Course> listOfCourse = new ArrayList<>();
 
     static {
-        listOfCourse.add(new Course("Analyze", 1));
+        listOfCourse.add(new Course("Escrocologie", 1));
         listOfCourse.add(new Course("Analyze", 2));
         listOfCourse.add(new Course("Mathematics", 1));
         listOfCourse.add(new Course("Mathematics", 2));
